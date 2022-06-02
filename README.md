@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @mansi-sood
-- 👀 I’m interested in Network Science, Machine Learning, Optimization, and Visual Arts
-- 🌱 I’m currently pursuing a PhD in Electrical and Computer Engineering at CMU
+
 
 
 <!---
